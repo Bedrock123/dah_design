@@ -678,7 +678,7 @@ and (max-width : 480px) {
     color: #FF9F46; 
 }
 .home {
-    height: 82vh
+    min-height: 82vh
 }
 .fullwidth {
     width: 100%;
